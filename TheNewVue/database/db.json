@@ -1,0 +1,32 @@
+{
+    "poster": [
+        {
+            "id": 1,
+            "title": "Atlas Gundam",
+            "description": "Description: John",
+            "postdate": "Date: 11.12.2012",
+            "image": "../images/35.png"
+        },
+        {
+            "id": 2,
+            "title": "Cooler Atlas",
+            "description": "Description: Jay",
+            "postdate": "Date: 10.1.2012",
+            "image": "../images/43.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Aestheic Star Build Strike",
+            "description": "Description: Max",
+            "postdate": "Date: 1.12.2014",
+            "image": "../images/1234.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Gustav Karl Ruin",
+            "description": "Description: Kate",
+            "postdate": "Date: 12.12.2015",
+            "image": "../images/1235.png"
+        }
+    ]
+}
